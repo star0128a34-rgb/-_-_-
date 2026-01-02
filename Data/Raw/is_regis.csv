@@ -1,0 +1,66 @@
+번호,학수번호-분반,강좌명,대상학년,정원,교수명,학점,강의시간/강의실,이수구분,언어구분,특이사항,강의계획서
+1,IS4001-00,Graduation Thesis(International Studies),4,170,주효연,0.0,토 07:00-07:05 (),4, ,졸업시험 응시자 반드시 수강신청/Mandatory for Graduation Exam Candidates,강의계획안 보기
+2,IS2508-00,Major Issues in International Studies,2,40,정하용,3.0,월 13:30-14:45 (국202호) 수 13:30-14:45 (국202호),4,영어,2학년 일괄배정 Class designation for Sophomores,강의계획안 보기
+3,IS2508-01,Major Issues in International Studies,2,40,임규택,3.0,월 15:00-16:15 (국202호) 수 15:00-16:15 (국202호),4,영어,2학년 일괄배정 Class designation for Sophomores,강의계획안 보기
+4,IS2204-00,Statistics for Social Science,2,40,성레나,3.0,월 15:00-16:15 (국105호) 수 15:00-16:15 (국105호),4,영어,1학년 2학기 또는 2학년 학생 반드시 수강신청 / Freshmen(2nd Semester) or Sophomore Students Must Register for Courses,강의계획안 보기
+5,IS2204-01,Statistics for Social Science,2,40,성레나,3.0,월 16:30-17:45 (국105호) 수 16:30-17:45 (국105호),4,영어,1학년 2학기 또는 2학년 학생 반드시 수강신청 / Freshmen(2nd Semester) or Sophomore Students Must Register for Courses,강의계획안 보기
+6,IS2204-02,Statistics for Social Science,2,40,홍원택,3.0,수 10:30-11:45 (국106호(전)) 금 10:30-11:45 (국106호(전)),4,영어,1학년 2학기 또는 2학년 학생 반드시 수강신청 / Freshmen(2nd Semester) or Sophomore Students Must Register for Courses,강의계획안 보기
+7,IS1011-00,Advanced English for International Contexts,1,15,Sharon Morrison,3.0,화 10:30-11:45 (국207호) 목 10:30-11:45 (국207호),5,영어,,강의계획안 보기
+8,IS3301-00,Advertising,3,40,서지영,3.0,월 10:30-13:15 (국103호),5,영어,,강의계획안 보기
+9,IS3401-00,American Politics and Economy,3,40,정하용,3.0,월 10:30-11:45 (국202호) 수 10:30-11:45 (국202호),5,영어,,강의계획안 보기
+10,IS2301-00,Business Finance,2,40,이젬마,3.0,월 10:30-11:45 (국105호) 수 10:30-11:45 (국105호),5,영어,,강의계획안 보기
+11,IS3536-00,Climate Changes and ESG Management,3,40,오형나,3.0,화 16:30-17:45 (국305호) 목 16:30-17:45 (국305호),5,영어,ESG Magagement Microdegree subject,강의계획안 보기
+12,IS2001-00,Comparative Area Studies,2,40,여유경,3.0,월 13:30-14:45 (국203호) 수 13:30-14:45 (국203호),5,영어,,강의계획안 보기
+13,IS3306-00,Corporate Finance,3,40,이젬마,3.0,월 13:30-14:45 (국105호) 수 13:30-14:45 (국105호),5,영어,,강의계획안 보기
+14,IS3103-00,Culture and International Relations,3,40,양준희,3.0,화 15:00-16:15 (국202호) 목 15:00-16:15 (국202호),5,영어,,강의계획안 보기
+15,IS2402-00,East Asian International Relations,2,40,여유경,3.0,월 15:00-16:15 (국203호) 수 15:00-16:15 (국203호),5,영어,,강의계획안 보기
+16,IS4201-00,Econometrics,3,40,오형나,3.0,화 10:30-11:45 (국202호) 목 10:30-11:45 (국202호),5,영어,,강의계획안 보기
+17,IS3530-00,Economics of Poverty,3,40,노윤재,3.0,금 12:00-14:45 (국208호),5,영어,,강의계획안 보기
+18,IS2503-00,Global Data Analysis for Economics and Business,2,40,안지연,3.0,화 15:00-16:15 (국B101호 Stair-like Lecture Room (계단강의실)) 목 15:00-16:15 (국B101호 Stair-like Lecture Room (계단강의실)),5,영어,,강의계획안 보기
+19,IS2101-00,History of International Relations,2,40,우승지,3.0,화 16:30-17:45 (국101-2호) 목 16:30-17:45 (국101-2호),5,영어,,강의계획안 보기
+20,IS3520-00,Independent Learning & Research (International Studies),3,1,현혜정,3.0,월 18:00-20:45 (국305호),5, ,사전 승인 학생만 신청 가능 / Only pre-approved students are eligible to apply,강의계획안 보기
+21,IS3520-01,Independent Learning & Research (International Studies),3,1,주효연,3.0,월 18:00-20:45 (국305호),5, ,사전 승인 학생만 신청 가능 / Only pre-approved students are eligible to apply,강의계획안 보기
+22,IS3520-02,Independent Learning & Research (International Studies),3,2,안지연,3.0,월 18:00-20:45 (국305호),5, ,사전 승인 학생만 신청 가능 / Only pre-approved students are eligible to apply,강의계획안 보기
+23,IS3520-03,Independent Learning & Research (International Studies),3,1,김선일,3.0,월 18:00-20:45 (국305호),5, ,사전 승인 학생만 신청 가능 / Only pre-approved students are eligible to apply,강의계획안 보기
+24,IS3520-04,Independent Learning & Research (International Studies),3,1,성레나,3.0,월 18:00-20:45 (국305호),5, ,사전 승인 학생만 신청 가능 / Only pre-approved students are eligible to apply,강의계획안 보기
+25,IS3520-05,Independent Learning & Research (International Studies),3,1,이젬마,3.0,토 07:10-07:15 (국305호),5, ,사전 승인 학생만 신청 가능 / Only pre-approved students are eligible to apply,강의계획안 보기
+26,IS1010-00,Intermediate English for International Contexts,1,15,Sharon Morrison,3.0,화 13:30-14:45 (국207호) 목 13:30-14:45 (국207호),5,영어,,강의계획안 보기
+27,IS1010-01,Intermediate English for International Contexts,1,15,Sharon Morrison,3.0,화 15:00-16:15 (국207호) 목 15:00-16:15 (국207호),5,영어,,강의계획안 보기
+28,IS2002-00,International Business,2,40,김준엽,3.0,화 10:30-11:45 (국204호) 목 10:30-11:45 (국204호),5,영어,,강의계획안 보기
+29,IS2002-01,International Business,2,40,김준엽,3.0,화 15:00-16:15 (국204호) 목 15:00-16:15 (국204호),5,영어,,강의계획안 보기
+30,IS4102-00,International Conflict and Resolution,3,40,Ioannis Tellidis,3.0,월 15:00-16:15 (국106호(전)) 수 15:00-16:15 (국106호(전)),5,영어,,강의계획안 보기
+31,IS3001-00,International Finance,2,40,양두용,3.0,월 13:30-14:45 (국209호) 수 13:30-14:45 (국209호),5,영어,,강의계획안 보기
+32,IS3001-01,International Finance,2,40,전종규,3.0,화 15:00-16:15 (국203호) 목 15:00-16:15 (국203호),5,영어,,강의계획안 보기
+33,IS3105-00,International Negotiations,3,40,문돈,3.0,월 13:30-14:45 (국101-2호) 수 13:30-14:45 (국101-2호),5,영어,,강의계획안 보기
+34,IS2102-00,International Organizations,2,40,문돈,3.0,월 10:30-11:45 (국101-2호) 수 10:30-11:45 (국101-2호),5,영어,,강의계획안 보기
+35,IS2003-00,International Political Economy,2,40,문돈,3.0,월 16:30-17:45 (국101-2호) 수 16:30-17:45 (국101-2호),5,영어,,강의계획안 보기
+36,IS2004-00,International Security,3,40,박한규,3.0,월 10:30-11:45 (국204호) 수 10:30-11:45 (국204호),5,영어,,강의계획안 보기
+37,IS3106-00,International Terrorism,3,40,Ioannis Tellidis,3.0,월 12:00-13:15 (국106호(전)) 수 12:00-13:15 (국106호(전)),5,영어,,강의계획안 보기
+38,IS3002-00,International Trade,2,40,이창수,3.0,화 12:00-13:15 (국202호) 목 12:00-13:15 (국202호),5,영어,,강의계획안 보기
+39,IS4404-00,Korean Foreign Policy,3,40,박한규,3.0,월 13:30-14:45 (국204호) 수 13:30-14:45 (국204호),5,영어,Required course for HSE Korean track students,강의계획안 보기
+40,IS4404-01,Korean Foreign Policy,3,40,강혁민,3.0,월 13:30-14:45 (국106호(전)) 수 13:30-14:45 (국106호(전)),5,영어,Required course for HSE Korean track students,강의계획안 보기
+41,IS2505-00,Korean Politics and Economy,2,40,정연경,3.0,화 12:00-13:15 (국209호) 목 12:00-13:15 (국209호),5,영어,Required course for HSE Korean track students,강의계획안 보기
+42,IS2505-01,Korean Politics and Economy,2,40,정연경,3.0,화 13:30-14:45 (국209호) 목 13:30-14:45 (국209호),5,영어,Required course for HSE Korean track students,강의계획안 보기
+43,IS2202-00,Macroeconomics,2,40,전종규,3.0,화 13:30-14:45 (국203호) 목 13:30-14:45 (국203호),5,영어,,강의계획안 보기
+44,IS2522-00,Management Information Systems,2,40,홍원택,3.0,수 16:30-17:45 (국106호(전)) 금 16:30-17:45 (국106호(전)),5,영어,,강의계획안 보기
+45,IS2203-00,Mathematics for Economics and Business,2,40,양두용,3.0,월 10:30-11:45 (국209호) 수 10:30-11:45 (국209호),5,영어,,강의계획안 보기
+46,IS2201-00,Microeconomics,2,40,현혜정,3.0,화 10:30-11:45 (국105호) 목 10:30-11:45 (국105호),5,영어,,강의계획안 보기
+47,IS3406-00,North Korea and Inter-Korean Relations,3,40,우승지,3.0,화 13:30-14:45 (국101-2호) 목 13:30-14:45 (국101-2호),5,영어,Required course for HSE Korean track students,강의계획안 보기
+48,IS3406-01,North Korea and Inter-Korean Relations,3,40,강혁민,3.0,월 15:00-16:15 (국101-2호) 수 15:00-16:15 (국101-2호),5,영어,Required course for HSE Korean track students,강의계획안 보기
+49,IS2303-00,Principles of Accounting,2,40,김근수,3.0,화 10:30-11:45 (국203호) 목 10:30-11:45 (국203호),5,영어,,강의계획안 보기
+50,IS3408-00,State and Society in East Asia,3,30,김선일,3.0,금 09:00-11:45 (국208호),5,영어,GSP(Graduate) Integrated Classes,강의계획안 보기
+51,IS3505-00,Topics in East Asian Studies I (H),3,30,백종완,3.0,수 10:30-13:15 (국103호),5,영어,GSP(Graduate) Integrated Classes / Not allowed for exchange students,강의계획안 보기
+52,IS3529-00,Topics in International Development Cooperation (H),3,30,한예은,3.0,월 10:30-11:45 (국203호) 수 10:30-11:45 (국203호),5,영어,Not allowed for exchange students / 'IDC with Latin America' Micro-degree subject,강의계획안 보기
+53,IS4207-00,Topics in International Economy,4,40,전종규,3.0,화 16:30-17:45 (국203호) 목 16:30-17:45 (국203호),5,영어,,강의계획안 보기
+54,IS3504-00,Topics in International Relations I (H),3,30,임규택,3.0,월 16:30-17:45 (국208호) 수 16:30-17:45 (국208호),5,영어,GSP(Graduate) Integrated Classes / Not allowed for exchange students,강의계획안 보기
+55,IS4208-00,Topics in Microeconomics (H),4,40,오형나,3.0,화 13:30-14:45 (국204호) 목 13:30-14:45 (국204호),5,영어,Not allowed for exchange students,강의계획안 보기
+56,IS2507-00,Understanding International Development Cooperation,2,30,곽재성,3.0,금 09:00-11:45 (국209호),5,영어,GSP(Graduate) Integrated Classes / 'IDC with Latin America' Micro-degree subject,강의계획안 보기
+57,IS3109-00,Understanding International Law,3,40,백범석,3.0,금 13:30-16:15 (국105호),5,영어,,강의계획안 보기
+58,IS1001-00,Introduction to Economics I,1,50,주효연,3.0,화 10:30-11:45 (국103호) 목 10:30-11:45 (국103호),11,영어,신입생 일괄배정 Class designation for freshmen,강의계획안 보기
+59,IS1001-01,Introduction to Economics I,1,50,주효연,3.0,화 12:00-13:15 (국103호) 목 12:00-13:15 (국103호),11,영어,신입생 일괄배정 Class designation for freshmen,강의계획안 보기
+60,IS1001-02,Introduction to Economics I,1,50,이창수,3.0,화 13:30-14:45 (국202호) 목 13:30-14:45 (국202호),11,영어,신입생 일괄배정 Class designation for freshmen,강의계획안 보기
+61,IS1002-00,Introduction to Economics II,1,60,안지연,3.0,화 12:00-13:15 (국B101호 Stair-like Lecture Room (계단강의실)) 목 12:00-13:15 (국B101호 Stair-like Lecture Room (계단강의실)),11,영어,,강의계획안 보기
+62,IS1004-00,Introduction to International Relations,1,45,백종완,3.0,수 15:00-17:45 (국103호),11,영어,신입생 일괄배정 Class designation for freshmen,강의계획안 보기
+63,IS1004-01,Introduction to International Relations,1,45,양준희,3.0,화 16:30-17:45 (국202호) 목 16:30-17:45 (국202호),11,영어,신입생 일괄배정 Class designation for freshmen,강의계획안 보기
+64,IS1003-00,Introduction to Political Science,1,45,정진영,3.0,화 13:30-14:45 (국105호) 목 13:30-14:45 (국105호),11,영어,신입생 일괄배정 Class designation for freshmen,강의계획안 보기
+65,IS1003-01,Introduction to Political Science,1,45,정진영,3.0,화 15:00-16:15 (국105호) 목 15:00-16:15 (국105호),11,영어,신입생 일괄배정 Class designation for freshmen,강의계획안 보기
